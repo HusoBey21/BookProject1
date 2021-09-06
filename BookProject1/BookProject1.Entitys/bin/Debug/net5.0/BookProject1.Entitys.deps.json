@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BookProject1.Entitys/1.0.0": {
+        "runtime": {
+          "BookProject1.Entitys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookProject1.Entitys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

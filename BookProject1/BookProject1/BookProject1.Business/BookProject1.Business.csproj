@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookProject1.Data\BookProject1.Data.csproj" />
+    <ProjectReference Include="..\BookProject1.Entitys\BookProject1.Entitys.csproj" />
+  </ItemGroup>
+
+</Project>

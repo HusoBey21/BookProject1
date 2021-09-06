@@ -1,0 +1,17 @@
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\bin\Debug\net5.0\BookProject1.Business.deps.json
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\bin\Debug\net5.0\BookProject1.Business.dll
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\bin\Debug\net5.0\ref\BookProject1.Business.dll
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\bin\Debug\net5.0\BookProject1.Business.pdb
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\bin\Debug\net5.0\BookProject1.Data.dll
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\bin\Debug\net5.0\BookProject1.Entitys.dll
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\bin\Debug\net5.0\BookProject1.Data.pdb
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\bin\Debug\net5.0\BookProject1.Entitys.pdb
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\obj\Debug\net5.0\BookProject1.Business.csprojAssemblyReference.cache
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\obj\Debug\net5.0\BookProject1.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\obj\Debug\net5.0\BookProject1.Business.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\obj\Debug\net5.0\BookProject1.Business.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\obj\Debug\net5.0\BookProject1.Business.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\obj\Debug\net5.0\BookProject1.Business.csproj.CopyComplete
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\obj\Debug\net5.0\BookProject1.Business.dll
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\obj\Debug\net5.0\ref\BookProject1.Business.dll
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Business\obj\Debug\net5.0\BookProject1.Business.pdb

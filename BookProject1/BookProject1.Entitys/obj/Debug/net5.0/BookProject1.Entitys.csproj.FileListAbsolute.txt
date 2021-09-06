@@ -1,0 +1,12 @@
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Entitys\bin\Debug\net5.0\BookProject1.Entitys.deps.json
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Entitys\bin\Debug\net5.0\BookProject1.Entitys.dll
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Entitys\bin\Debug\net5.0\ref\BookProject1.Entitys.dll
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Entitys\bin\Debug\net5.0\BookProject1.Entitys.pdb
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Entitys\obj\Debug\net5.0\BookProject1.Entitys.csprojAssemblyReference.cache
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Entitys\obj\Debug\net5.0\BookProject1.Entitys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Entitys\obj\Debug\net5.0\BookProject1.Entitys.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Entitys\obj\Debug\net5.0\BookProject1.Entitys.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Entitys\obj\Debug\net5.0\BookProject1.Entitys.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Entitys\obj\Debug\net5.0\BookProject1.Entitys.dll
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Entitys\obj\Debug\net5.0\ref\BookProject1.Entitys.dll
+C:\Users\Muhammed\source\repos\BookProject1\BookProject1.Entitys\obj\Debug\net5.0\BookProject1.Entitys.pdb
